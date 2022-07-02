@@ -1,2 +1,2 @@
 # .github
-Standard README and community health files
+Contains a standard README and community health files.
