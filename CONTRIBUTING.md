@@ -4,7 +4,7 @@ Welcome to the Contribution Guidelines document! If you're reading this, it prob
 
 ### New contributor guide
 
-If you're unfamiliar with the project, please read the appropriate README first, and consider joining our Discord. We'd be happy to answer your questions!
+If you're unfamiliar with the project, please read the appropriate README first, and consider joining our [Discord](https://discord.gg/eYHbqEssxx). We'd be happy to answer your questions!
 
 ### Issues
 
