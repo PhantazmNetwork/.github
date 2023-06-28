@@ -4,12 +4,11 @@ Welcome to the Contribution Guidelines document! If you're reading this, it prob
 
 ### New contributor guide
 
-If you're unfamiliar with the project, please read the appropriate README first, and consider joining our [Discord](https://discord.gg/eYHbqEssxx). We'd be happy to answer your questions!
+If you're unfamiliar with the project, please read the appropriate README first. If you want to add a new feature, consider opening an issue about it. If you have questions, we'd be happy to answer them! There will be a publicly-accessible Discord server eventually where everyone can join.
 
 ### Issues
 
 Issues are either for suggestions or bug reports. When making suggestions, clearly describe what your ideas are and give as much information as necessary. When making bug reports, give as much information as possible and include the steps to reproduce the bug. 
-
 
 ### Pull requests
 
